@@ -3,6 +3,26 @@ A Material Design Custom Snackbar for Android
 
 <br/>
 
+## What's New
+
+<br/>
+
+## Purpose
+
+<br/>
+
+## Features 
+
+<br/>
+
+## Prerequisites
+
+<br/>
+
+## Usage
+
+<br/>
+
 ## Contribute
 
 Please fork this repository and contribute back using [pull requests](https://github.com/ahmmedrejowan/CuteSnack/pulls).
