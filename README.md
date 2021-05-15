@@ -1,6 +1,36 @@
 # CuteSnack
 A Material Design Custom Snackbar for Android
 
+<br/>
+
+## Contribute
+
+Please fork this repository and contribute back using [pull requests](https://github.com/ahmmedrejowan/CuteSnack/pulls).
+
+Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
+but will be thoroughly reviewed .
+
+Let me know which features you want in the future in `Request Feature` tab. 
+
+If this project helps you a little bit, then give a to Star ⭐ the Repo. 
+
+<br/>
+
+
+## Credits
+
+Created with Love by **K M Rejowan Ahmmed** (@ahmmedrejowan)
+
+Reach me @
+* [Github](https://github.com/ahmmedrejowan) 
+* [LinkedIn](https://www.linkedin.com/in/ahmmedrejowan)
+* [Twitter](https://twitter.com/ahmmedrejowan)
+* [Facebook](https://facebook.com/ahmmedrejowan)
+* [StackOverFlow](https://stackoverflow.com/users/9932194/k-m-rejowan-ahmmed)
+
+
+
+
 
 ## Licences 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
