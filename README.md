@@ -4,7 +4,7 @@ A Material Design Custom Snackbar for Android
 <br/>
 
 ## What's New
-
+Check on Releases Tab for changes. 
 <br/>
 
 ## Purpose
