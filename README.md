@@ -8,7 +8,7 @@ Check on Releases Tab for changes.
 <br/>
 
 ## Purpose
-CuteSnack is a Material Design Android Snackbar that could be used as an alternative of Default
+CuteSnack is a Material Design Android Snackbar that could be used as an alternative of Default Android Snakbar Library.
 <br/>
 
 ## Features 
