@@ -1,4 +1,7 @@
 # CuteSnack
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+
+<br/>
 A Material Design Custom Snackbar for Android
 
 <br/>
