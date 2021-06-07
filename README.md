@@ -1,14 +1,19 @@
 # CuteSnack
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+
+<br/>
 A Material Design Custom Snackbar for Android
 
 <br/>
 
 ## What's New
-
+Check on Releases Tab for changes. 
 <br/>
 
 ## Purpose
+CuteSnack is a Material Design Android Snackbar that could be used as an alternative of Default Android Snakbar Library. 
 
+It has everything as the Default Android Snakbar Library, but with a lot more features. You can add custom buttons, designs to your normal snakcbar using CuteSnack Library.
 <br/>
 
 ## Features 
