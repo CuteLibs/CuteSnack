@@ -16,9 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        ConstraintLayout constraintLayout = findViewById(R.id.mLayout);
-
-        Snackbar.make(constraintLayout,"Hello", Snackbar.LENGTH_SHORT).show();
 
    }
 }
