@@ -37,6 +37,10 @@ Check on Releases Tab for changes.
 
 <br/>
 
+## Notes
+
+<br/>
+
 ## Contribute
 
 Please fork this repository and contribute back using [pull requests](https://github.com/ahmmedrejowan/CuteSnack/pulls).
