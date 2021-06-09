@@ -21,6 +21,8 @@ Check on Releases Tab for changes.
 
 <br/>
 
+## Screenshots
+
 ## Prerequisites
 
 <br/>
