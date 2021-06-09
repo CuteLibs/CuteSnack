@@ -23,7 +23,13 @@ Check on Releases Tab for changes.
 
 ## Screenshots
 
+<br/>
+
 ## Prerequisites
+
+<br/>
+
+## Dependencies
 
 <br/>
 
