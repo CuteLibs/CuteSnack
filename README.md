@@ -13,7 +13,7 @@ It has everything as the Default Android Snakbar Library, but with a lot more fe
 <br/>
 
 ## What's New
-This is  Check on Releases Tab for changes.
+This is the Initial Check on Releases Tab for changes.
 <br/>
 
 
