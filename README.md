@@ -1,5 +1,5 @@
 # CuteSnack
-[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![JitPack](https://img.shields.io/jitpack/v/github/ahmmedrejowan/CuteToast)](https://jitpack.io/#ahmmedrejowan/CuteSnack)
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![JitPack](https://img.shields.io/jitpack/v/github/ahmmedrejowan/CuteSnack)](https://jitpack.io/#ahmmedrejowan/CuteSnack)
 
 <br/>
 A Material Design Custom Snackbar for Android
